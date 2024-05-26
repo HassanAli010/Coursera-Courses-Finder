@@ -2,7 +2,10 @@
 Coursera-Courses-Finder (Using Python library Stream-lit and some machine learning algorithms such as pandas, numpy, sklearn etc. 
 
 # Run app
+change the file name, Here I'm rename-ing the file name for deployment.
+so, when you want to deploy in localhost side then rename the file like app.py / courses.py etc
 streamlit run app.py
+
 
 # importing:
 import streamlit as st
