@@ -17,4 +17,12 @@ import streamlit as st
 import streamlit as st
 from recommendation_page import recommendation
 
+# TOOLS USING IN THAT PROJECT
+python
+streamlit
+machine learning algorithms(pandas, numpy, sklearn) using google colab notebook
+and some other algorithms.
+recommendation function in python etc.
+
+
 
