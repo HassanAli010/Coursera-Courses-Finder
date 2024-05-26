@@ -2,7 +2,7 @@
 Coursera-Courses-Finder (Using Python library Stream-lit and some machine learning algorithms such as pandas, numpy, sklearn etc. 
 
 # Run app
-streamlit run courses.py
+streamlit run app.py
 
 # importing:
 import streamlit as st
